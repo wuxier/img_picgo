@@ -8,7 +8,7 @@ wall 壁纸存储文件夹
 
 
 
-![img](https://github.com/wuxier/img_picgo/blob/master/Snipaste_2020-05-02_12-06-00.png)
+![Image text](https://github.com/wuxier/img_picgo/blob/master/Snipaste_2020-05-02_12-06-00.png)
 
 
 
