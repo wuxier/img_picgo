@@ -5,4 +5,4 @@ img  截图存储文件夹
 
 wall 壁纸存储文件夹
 
-![](E:\vscode\github\img_picgo\Snipaste_2020-05-02_12-06-00.png)
+![](./Snipaste_2020-05-02_12-06-00.png)
